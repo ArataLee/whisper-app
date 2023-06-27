@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-# Form implementation generated from reading ui file 'd:\workspace\code\py\voicetotext\main.ui'
+# Form implementation generated from reading ui file 'd:\workspace\code\py\github\whisper-app\main.ui'
 #
 # Created by: PyQt5 UI code generator 5.15.9
 #
@@ -91,11 +91,11 @@ class Ui_MainWindow(object):
         self.label_3.setText(_translate("MainWindow", "模型选择:"))
         self.modelButtonBase.setText(_translate("MainWindow", "base"))
         self.start.setText(_translate("MainWindow", "开始转换"))
-        self.modelButtonLargeV1.setText(_translate("MainWindow", "lagre-v1"))
+        self.modelButtonLargeV1.setText(_translate("MainWindow", "large-v1"))
         self.modelButtonTiny.setText(_translate("MainWindow", "tiny"))
         self.modelButtonSmall.setText(_translate("MainWindow", "small"))
-        self.modelButtonLarge.setText(_translate("MainWindow", "lagre"))
-        self.modelButtonLargeV2.setText(_translate("MainWindow", "lagre-v2"))
+        self.modelButtonLarge.setText(_translate("MainWindow", "large"))
+        self.modelButtonLargeV2.setText(_translate("MainWindow", "large-v2"))
         self.outputSelect.setText(_translate("MainWindow", "选择输出目录"))
         self.label.setText(_translate("MainWindow", "源文件:"))
         self.label_2.setText(_translate("MainWindow", "转换进度:"))
